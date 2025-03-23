@@ -1,0 +1,25 @@
+NODES
+A
+B
+C
+D
+E
+F
+G
+H
+I
+
+EDGES
+A, B, 10
+A, C, 15
+B, D, 12
+B, E, 10
+C, E, 10
+C, F, 5
+D, G, 8
+E, F, 7
+E, G, 12
+F, H, 5
+G, H, 10
+G, I, 4
+H, I, 6
